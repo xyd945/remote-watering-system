@@ -49,11 +49,11 @@ I highly suggest just use the simplest Arduino UNO, not the mega or wifi version
 
 ## Step 3 - Test the sensors and the pump
 We can use Caroline's code to test the sensor and pump.
-- to test the moisture sensor, you can use this code:[moistureSensorTest.ino]()
-- to test the pump and moisture sensor together, use this code:[pumpTesting.ino]()
+- to test the moisture sensor, you can use this code:[moistureSensorTest.ino](https://github.com/xyd945/remote-watering-system/blob/main/moistureSensorTest.ino)
+- to test the pump and moisture sensor together, use this code:[pumpTesting.ino](https://github.com/xyd945/remote-watering-system/blob/main/pumpTesting.ino)
 
 ## Step 4 - Upload the start and stop code 
-Once everything is setup properly, you may want to prepare your [startPump.ino] and [stopPump.ino] code. Just upload the code you want to Arduino to perform certain task. 
+Once everything is setup properly, you may want to prepare your [startPump.ino](https://github.com/xyd945/remote-watering-system/blob/main/startPump.ino)  and [stopPump.ino](https://github.com/xyd945/remote-watering-system/blob/main/stopPump.ino) code. Just upload the code you want to Arduino to perform certain task. 
 
 ## Step 5 - Make it remote
 Previous steps can be done locally with a monitor, keyboard and mouse or via local ssh, but our ultimate goal is to access our raspberry pi from remote networks (not from the same home network). So here is the way: 
