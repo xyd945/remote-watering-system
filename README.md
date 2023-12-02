@@ -1,7 +1,9 @@
 # remote-watering-system
 This is a learning project to play with Raspberry Pi and Arduino. The reason behind this learning is to save your plant while you are travelling for longer time (e.g., 2 weeks +). I forked the original code from https://github.com/xyd945/Plant-Watering , where Caroline Dunn built a automated watering system based on moisture sensors. I don't really trust the system and leave it alone for a few weeks. I'd rather manually control it. So feel free to use her code if you want to run everything automatically, or refer to my code (much simpler) if you just want to remotely control your pump. 
 
-I also made a Youtube video for fun: https://youtu.be/WOh4RYnrt0Q , make sure you subscribe and like it😉 Your feedback is invaluable to my learning journey. 
+I also made a Youtube video for fun , make sure you subscribe and like it😉 Your feedback is invaluable to my learning journey. 
+[![video](https://img.youtube.com/vi/WOh4RYnrt0Q/0.jpg)](https://www.youtube.com/watch?v=WOh4RYnrt0Q)
+
 
 ## Materials
 - your plant
